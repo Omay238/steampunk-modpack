@@ -1,0 +1,24 @@
+on:
+  push:
+    branches:
+    - main
+  workflow_dispatch:
+
+jobs:
+  package:
+    name: Package mrpack with packwiz
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - name: Setup Go environment
+      uses: actions/setup-go@v4.2.1
+    - name: Install packwiz
+      run: go install github.com/packwiz/packwiz@latest
+    - name: Package
+      run: packwiz mr export
+    - name: Upload a Build Artifact
+      uses: actions/upload-artifact@v4.6.2
+      with:
+        name: pack
+        path: Steampunk-*.mrpack
+        compression-level: 0
