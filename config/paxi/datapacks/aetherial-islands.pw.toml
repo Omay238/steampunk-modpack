@@ -1,0 +1,13 @@
+name = "Aetherial Islands"
+filename = "Aetherial_Islands_1.0.5.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CHh9WEKT/versions/2ieZQKAg/Aetherial_Islands_1.0.5.zip"
+hash-format = "sha512"
+hash = "dc06736836dfb51abac9e249b8f71aedca1156f24bd392ae7015e68b67e36c2e5f0472ac1aca6180eba280997da91154efaf026411710b333075827b0ad20658"
+
+[update]
+[update.modrinth]
+mod-id = "CHh9WEKT"
+version = "2ieZQKAg"

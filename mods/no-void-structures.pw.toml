@@ -1,0 +1,13 @@
+name = "No Void Structures"
+filename = "no_void_structures-forge-mc1.20.1-v1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/iWMeHtdv/versions/sNMfFTww/no_void_structures-forge-mc1.20.1-v1.0.0.jar"
+hash-format = "sha512"
+hash = "569e4f7a613c1bef8b79af1a80c0320b16d9fb4626116fd45f1bab273321548d4118f6949a72b0890ba164b3b7696f43779d8a5e653d797d9e31c1cf2c5c1277"
+
+[update]
+[update.modrinth]
+mod-id = "iWMeHtdv"
+version = "sNMfFTww"

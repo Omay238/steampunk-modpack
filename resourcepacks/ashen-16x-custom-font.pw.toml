@@ -1,0 +1,13 @@
+name = "Ashen 16x Custom Font"
+filename = "Ashen_Custom_Font.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zNIFIvC4/versions/FkJcis5c/Ashen_Custom_Font.zip"
+hash-format = "sha512"
+hash = "fb661cd8c62b79290b77e4a17fba509cf7fcc652d47ff223e72b9bfa7ce39c88bc1b4ba6ce3d2726d55dc8a6814b352af4a1b127484945ebda834313116ee20b"
+
+[update]
+[update.modrinth]
+mod-id = "zNIFIvC4"
+version = "FkJcis5c"

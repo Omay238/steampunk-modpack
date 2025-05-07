@@ -1,0 +1,13 @@
+name = "Ashen Custom Mobs"
+filename = "Ashen_Custom_Mobs.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/GQGN9FhO/versions/qA5pOlW6/Ashen_Custom_Mobs.zip"
+hash-format = "sha512"
+hash = "efd1ef0815680b3424260d4b6b749d878959f4248e332c54b54005a4b97fe96cc4b5cb4f9496571ab065ade9fc70d64c3193fc61b78a89c617d8a5959ee7cab7"
+
+[update]
+[update.modrinth]
+mod-id = "GQGN9FhO"
+version = "qA5pOlW6"
