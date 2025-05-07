@@ -16,9 +16,11 @@ jobs:
       run: go install github.com/packwiz/packwiz@latest
     - name: Package
       run: packwiz mr export
+    - name: Extract modpack
+      run: unzip -r Steampunk-*.mrpack
     - name: Upload a Build Artifact
       uses: actions/upload-artifact@v4.6.2
       with:
-        name: pack
-        path: Steampunk-*.mrpack
-        compression-level: 0
+        name: Steampunk.mrpack
+        path: Steampunk-*
+        compression-level: 9
