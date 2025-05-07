@@ -17,7 +17,7 @@ jobs:
     - name: Package
       run: packwiz mr export -o Steampunk.zip
     - name: Extract modpack
-      run: unzip Steampunk.zip
+      run: unzip Steampunk.zip -d Steampunk
     - name: Upload a Build Artifact
       uses: actions/upload-artifact@v4.6.2
       with:
