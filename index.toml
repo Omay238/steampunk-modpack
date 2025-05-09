@@ -428,11 +428,6 @@ hash = "649f669da91acd0adf2940309e5dd55676b4ebfabc3791c7a91c9446d9989f11"
 metafile = true
 
 [[files]]
-file = "mods/vault.pw.toml"
-hash = "3bb6e0891a38bcc13328168d51690c8a4962fb86699ffe1e5fe8c19a0996a323"
-metafile = true
-
-[[files]]
 file = "mods/vs-tournament.pw.toml"
 hash = "72d0304efb7ad2878f7bc915148424c6fb5cb1182237c796c4348099ed0eb1a0"
 metafile = true
