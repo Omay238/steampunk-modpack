@@ -218,6 +218,11 @@ hash = "2e9255b6193f9b52120a715cc64288d8320d44feb215d0cc895ad411dcca9d2a"
 metafile = true
 
 [[files]]
+file = "mods/dcintegration.pw.toml"
+hash = "7c1ac01f8026fac8630fa7762a4325bfda54578d7904890904308b921d33ebd8"
+metafile = true
+
+[[files]]
 file = "mods/e4mc.pw.toml"
 hash = "4457fd8767a5d234c37623df7d46d7c66cac300897e8922c4ccdee123f02c79f"
 metafile = true
@@ -295,6 +300,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "e0c6ce8408964b6a0e95b5e4a59930fab5717e6afa011e74398fede0e0c2c3a3"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "f8b4210300a8f2ce76a2329de37f2e671ac5dfeca17018528cadb333b019a814"
 metafile = true
 
 [[files]]
@@ -378,6 +388,16 @@ hash = "f23a87b14e369a321e00162141b2cf35aea4848cf27d5505f94c5558e5c174db"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "3e7e50f5bee28d50e578f116f57a0eb92edbd1801e1276cf53412f48a2a3bfb0"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "f1c35000bb491cbeb224e1dbb58a23c072d3b5f238c8d2ee5f5efd77f4c86724"
+metafile = true
+
+[[files]]
 file = "mods/starlight-forge.pw.toml"
 hash = "65e8c853803778d56c0ebd696fe8c4aa31e8d10f128c19f7771bb74335292e71"
 metafile = true
@@ -408,6 +428,11 @@ hash = "649f669da91acd0adf2940309e5dd55676b4ebfabc3791c7a91c9446d9989f11"
 metafile = true
 
 [[files]]
+file = "mods/vault.pw.toml"
+hash = "3bb6e0891a38bcc13328168d51690c8a4962fb86699ffe1e5fe8c19a0996a323"
+metafile = true
+
+[[files]]
 file = "mods/vs-tournament.pw.toml"
 hash = "72d0304efb7ad2878f7bc915148424c6fb5cb1182237c796c4348099ed0eb1a0"
 metafile = true
@@ -416,7 +441,3 @@ metafile = true
 file = "mods/yungs-api.pw.toml"
 hash = "152c6732da180e958fb29f492bae2e468d4dfd423ce4d3d0d31ef31c2eec6c61"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "d850f125d70c821d18a53502ef9949d6310aeefeef00a87b8451d852f2e59ed7"
