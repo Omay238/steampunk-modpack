@@ -30,7 +30,99 @@ hash = "3eaff30e2d85bb6794ff174f50796b929a15d85b7df176994f7723f52c421062"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"
-hash = "6fd95d5a0c091f144daa2d7dbf6a718cfa5b32a851f64736d92584aa7e63bd8c"
+hash = "95b324860c42bddb2a1c531ec351dbfce4b87c0442f0c2f0cde0dbf38f5e2b56"
+
+[[files]]
+file = "config/paxi/datapacks/Steampunk_Islands/.idea/Steampunk_Islands.iml"
+hash = "77fc09e97a9dabfa4230614cf9db8684baaafceac54a08ff63572cedcffb2bbd"
+
+[[files]]
+file = "config/paxi/datapacks/Steampunk_Islands/.idea/inspectionProfiles/profiles_settings.xml"
+hash = "6172c5997eeb3cd19c9ca2b5b97d6e2983cdd1fa60b2460d7bbb74055edcaa46"
+
+[[files]]
+file = "config/paxi/datapacks/Steampunk_Islands/.idea/misc.xml"
+hash = "ff45006007313eb59739974cd1a57469a7cf29cb3fb0aadca6b1660ceb861033"
+
+[[files]]
+file = "config/paxi/datapacks/Steampunk_Islands/.idea/modules.xml"
+hash = "9187cd3025a4d5e41ac3fc01bdcf1b86ed3b3f38372ad0874a892db90d2ac746"
+
+[[files]]
+file = "config/paxi/datapacks/Steampunk_Islands/.idea/workspace.xml"
+hash = "6f23a40849efdfe7c18af87e51fb86a9b4cca92914373682065e7c99572bcf4f"
+
+[[files]]
+file = "config/paxi/datapacks/Steampunk_Islands/data/create/worldgen/configured_feature/striated_ores_nether.json"
+hash = "b5ff1a5e82a857485256dec08464ce1e156873f4689ea0d88fcc71190d6c9ac4"
+
+[[files]]
+file = "config/paxi/datapacks/Steampunk_Islands/data/create/worldgen/configured_feature/striated_ores_overworld.json"
+hash = "a14f9f05d736a54dd874f868a06f4837173c62d0c15ac9a6b7a843f9d1fee98f"
+
+[[files]]
+file = "config/paxi/datapacks/Steampunk_Islands/data/create/worldgen/configured_feature/zinc_ore.json"
+hash = "1172433fd4d4888a523647c0339e6a7327765216313d881471fb11394990941a"
+
+[[files]]
+file = "config/paxi/datapacks/Steampunk_Islands/data/create/worldgen/placed_feature/striated_ores_nether.json"
+hash = "5542e425f64b1f080337b23771d5d58a0b49a95e6cbc010fc204a4441c3882fb"
+
+[[files]]
+file = "config/paxi/datapacks/Steampunk_Islands/data/create/worldgen/placed_feature/striated_ores_overworld.json"
+hash = "958c0139771dd21dc4a3b0f53f135eb883db9dfff5a92795236f7dc3a0183f1f"
+
+[[files]]
+file = "config/paxi/datapacks/Steampunk_Islands/data/create/worldgen/placed_feature/zinc_ore.json"
+hash = "652fb116af6d25fc31afbe0d4dec07e2152572c56dac8fba86beb9be4542f571"
+
+[[files]]
+file = "config/paxi/datapacks/Steampunk_Islands/data/createloveandwar/worldgen/configured_feature/nether_sulphur_ore.json"
+hash = "cb24f3aac63bffc8daa3535d24f781d6686935353025b80be8128e0e8dada501"
+
+[[files]]
+file = "config/paxi/datapacks/Steampunk_Islands/data/createloveandwar/worldgen/configured_feature/sulphur_ore.json"
+hash = "13fd83837a63b204f4937cbc6addc8b73aa3a907d20f1ec6d3ebd5fc51f12682"
+
+[[files]]
+file = "config/paxi/datapacks/Steampunk_Islands/data/createloveandwar/worldgen/configured_feature/tungsten_ore.json"
+hash = "4c04125409d91141a3ffe35fd30043e5bada6705d3eee78d0d58b8b6bd098d01"
+
+[[files]]
+file = "config/paxi/datapacks/Steampunk_Islands/data/createloveandwar/worldgen/placed_feature/nether_sulphur_ore_placed.json"
+hash = "1b3b4aebedac6439ac98228f21ffacc712da7f1f66d973eff6d6148a9044c63e"
+
+[[files]]
+file = "config/paxi/datapacks/Steampunk_Islands/data/createloveandwar/worldgen/placed_feature/sulphur_ore_placed.json"
+hash = "f09ee28ef3abbbddc57dd9085c19ff8304d168b8810adc47566fb766a649bc81"
+
+[[files]]
+file = "config/paxi/datapacks/Steampunk_Islands/data/createloveandwar/worldgen/placed_feature/tungsten_ore_placed.json"
+hash = "5e826e6778b0ee367a26b6cba4c79eb3835c11eca927981027b25c0f3ae49f70"
+
+[[files]]
+file = "config/paxi/datapacks/Steampunk_Islands/data/minecraft/worldgen/configured_feature/disk_gravel.json"
+hash = "5a786a8d24e8faf323e390f14762985eb11255fd365586c998851a7d93e4f574"
+
+[[files]]
+file = "config/paxi/datapacks/Steampunk_Islands/data/minecraft/worldgen/configured_feature/disk_sand.json"
+hash = "5a786a8d24e8faf323e390f14762985eb11255fd365586c998851a7d93e4f574"
+
+[[files]]
+file = "config/paxi/datapacks/Steampunk_Islands/data/vs_clockwork/worldgen/configured_feature/ore_wanderlite.json"
+hash = "e13d2dfd37d91ad6761e7b6d1544273ef34ace98947e811d578b1a3fac0ed24a"
+
+[[files]]
+file = "config/paxi/datapacks/Steampunk_Islands/data/vs_clockwork/worldgen/placed_feature/ore_wanderlite.json"
+hash = "fe28576ae5f4ab86ab0f412acc8f74a6bf519c9f5d8207a9e39e44ae333d0699"
+
+[[files]]
+file = "config/paxi/datapacks/Steampunk_Islands/pack.mcmeta"
+hash = "4bbefc5fb876b1c9b45b15a10dc1fbc6d92fb7e0a333aebec8f9eb3b972e583b"
+
+[[files]]
+file = "config/paxi/datapacks/Steampunk_Islands/pack.png"
+hash = "84ada6f9b05f1e2a35c5287cdb46c4b2f003432113fd6069bc7d2d9b48e0703d"
 
 [[files]]
 file = "config/paxi/datapacks/aetherial-islands.pw.toml"
@@ -417,6 +509,11 @@ hash = "adf3ece71fdb73604cbeccf9d92f87f981aee84d6922390fc1bf470141da1550"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "34e036f376828c9ddb96fdd42f11603dca88a735bf59ae8f609850aea3a67d68"
+metafile = true
+
+[[files]]
 file = "mods/smooth-boot-reloaded.pw.toml"
 hash = "f23a87b14e369a321e00162141b2cf35aea4848cf27d5505f94c5558e5c174db"
 metafile = true
@@ -506,6 +603,90 @@ file = "options.txt"
 hash = "ac187fcfcf70c54e1a2f5e6fd014a7edc3a0da08726dd81b6ac3907c92c5bb6d"
 
 [[files]]
+file = "resourcepacks/Steampunk/assets/create/textures/block/deepslate_zinc_ore.png"
+hash = "a4024df43aeb11aaf8f9b36276fd204d41b437de1675c86adbbd1af6dfffe53a"
+
+[[files]]
+file = "resourcepacks/Steampunk/assets/create/textures/block/zinc_ore.png"
+hash = "b6bcfc89c19f0a451d77602620a139baa39a0f3a5a82974b105d213ab7e31b1b"
+
+[[files]]
+file = "resourcepacks/Steampunk/assets/createloveandwar/textures/block/deepslate_sulphur_ore.png"
+hash = "8889eadd9818f5a598623618f7763a682a7202c8211b6baf56f4cf6bd9319896"
+
+[[files]]
+file = "resourcepacks/Steampunk/assets/createloveandwar/textures/block/deepslate_tungsten_ore.png"
+hash = "8d6fd59853a0b968131174396cf4f8e9f416ebe086cfc6176bfea4cb19b01bd9"
+
+[[files]]
+file = "resourcepacks/Steampunk/assets/createloveandwar/textures/block/nether_sulphur_ore.png"
+hash = "7618bf851d232c1184583ce7097ddd807229881529e60511c79a9301965f9c4e"
+
+[[files]]
+file = "resourcepacks/Steampunk/assets/createloveandwar/textures/block/sulphur_ore.png"
+hash = "af7158dc50354819adb6309f0f35cbbeaf9cef94bfd2f1ea8389ae691d76d611"
+
+[[files]]
+file = "resourcepacks/Steampunk/assets/minecraft/textures/gui/title/background/panorama_0.png"
+hash = "11c1d04f0fa770bdf9a5b11fd6d2478190a91f345eede0f11905e8a4f08437c9"
+
+[[files]]
+file = "resourcepacks/Steampunk/assets/minecraft/textures/gui/title/background/panorama_1.png"
+hash = "87f88b653377e882ea87b16fb1f830e3a23f17633d4842f78e7f35c70ab49b44"
+
+[[files]]
+file = "resourcepacks/Steampunk/assets/minecraft/textures/gui/title/background/panorama_2.png"
+hash = "62ced12211609c7f1cf3bca7917dd4155915eee96e19cb2799c85063897c98cd"
+
+[[files]]
+file = "resourcepacks/Steampunk/assets/minecraft/textures/gui/title/background/panorama_3 copy.png"
+hash = "9a53f6e545968af3bf7044dd7c9e09e4c64ae9bef1972baad78f7253245caabc"
+
+[[files]]
+file = "resourcepacks/Steampunk/assets/minecraft/textures/gui/title/background/panorama_3.png"
+hash = "a3b37d391f8de2d04ded92ef1a9ae94f34d6df308621e0eb38077b0489c901b8"
+
+[[files]]
+file = "resourcepacks/Steampunk/assets/minecraft/textures/gui/title/background/panorama_4.png"
+hash = "e93fa77c5c5f7ea6c23644446c5b7b981a8f671c0a96f7430f65d258a103b0ae"
+
+[[files]]
+file = "resourcepacks/Steampunk/assets/minecraft/textures/gui/title/background/panorama_5.png"
+hash = "c97fcb5af819fa2db6f00f90367cc24319ecdb7303cf58f941e86f450c36d5ea"
+
+[[files]]
+file = "resourcepacks/Steampunk/assets/minecraft/textures/gui/title/edition.png"
+hash = "d6ce0b0f6655bb0d4a200d9f68ae63c47ac304a837a66737e4308e1bd3e1429b"
+
+[[files]]
+file = "resourcepacks/Steampunk/assets/vs_clockwork/textures/blocks/deepslate_wanderlite_ore.png"
+hash = "59e40d92dd8331199d271774abae4a53a768ec1cc0c101e39cbbda60a82d922c"
+
+[[files]]
+file = "resourcepacks/Steampunk/assets/vs_clockwork/textures/blocks/deepslate_wanderlite_ore.png.mcmeta"
+hash = "0bd34e20a1e16691d2692c2fbffb2346fda1e45dfbadb51cde9f5abbc7db6fb4"
+
+[[files]]
+file = "resourcepacks/Steampunk/assets/vs_clockwork/textures/blocks/deepslate_wanderlite_ore_top.png"
+hash = "2efa82fd3e88326f420b789f25ce575184f89a3ed163ba8281169c75af207dd7"
+
+[[files]]
+file = "resourcepacks/Steampunk/assets/vs_clockwork/textures/blocks/deepslate_wanderlite_ore_top.png.mcmeta"
+hash = "0bd34e20a1e16691d2692c2fbffb2346fda1e45dfbadb51cde9f5abbc7db6fb4"
+
+[[files]]
+file = "resourcepacks/Steampunk/assets/vs_clockwork/textures/blocks/end_wanderlite_ore.png"
+hash = "d91daadfebf7caf8dcca25f1568c03b82603391dd3e1f7ff2e60418aedc8a326"
+
+[[files]]
+file = "resourcepacks/Steampunk/assets/vs_clockwork/textures/blocks/end_wanderlite_ore.png.mcmeta"
+hash = "0bd34e20a1e16691d2692c2fbffb2346fda1e45dfbadb51cde9f5abbc7db6fb4"
+
+[[files]]
+file = "resourcepacks/Steampunk/pack.mcmeta"
+hash = "f2e46c27fdeae8be5778442db606de5189f3526ebe349e24b31baf24647d767c"
+
+[[files]]
 file = "resourcepacks/ashen-16x-custom-font.pw.toml"
 hash = "2fa985492633dbb01d0f0fb67e1105a40735bbdba70b1240eb17b987a321d678"
 metafile = true
@@ -559,38 +740,6 @@ metafile = true
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "b96abadb2cdb56d53145609e6a8ee9fd70171878bb5414412dddee1fca902a7b"
 metafile = true
-
-[[files]]
-file = "resourcepacks/spsm/assets/minecraft/textures/gui/title/background/panorama_0.png"
-hash = "11c1d04f0fa770bdf9a5b11fd6d2478190a91f345eede0f11905e8a4f08437c9"
-
-[[files]]
-file = "resourcepacks/spsm/assets/minecraft/textures/gui/title/background/panorama_1.png"
-hash = "87f88b653377e882ea87b16fb1f830e3a23f17633d4842f78e7f35c70ab49b44"
-
-[[files]]
-file = "resourcepacks/spsm/assets/minecraft/textures/gui/title/background/panorama_2.png"
-hash = "62ced12211609c7f1cf3bca7917dd4155915eee96e19cb2799c85063897c98cd"
-
-[[files]]
-file = "resourcepacks/spsm/assets/minecraft/textures/gui/title/background/panorama_3.png"
-hash = "9a53f6e545968af3bf7044dd7c9e09e4c64ae9bef1972baad78f7253245caabc"
-
-[[files]]
-file = "resourcepacks/spsm/assets/minecraft/textures/gui/title/background/panorama_4.png"
-hash = "e93fa77c5c5f7ea6c23644446c5b7b981a8f671c0a96f7430f65d258a103b0ae"
-
-[[files]]
-file = "resourcepacks/spsm/assets/minecraft/textures/gui/title/background/panorama_5.png"
-hash = "c97fcb5af819fa2db6f00f90367cc24319ecdb7303cf58f941e86f450c36d5ea"
-
-[[files]]
-file = "resourcepacks/spsm/assets/minecraft/textures/gui/title/edition.png"
-hash = "d6ce0b0f6655bb0d4a200d9f68ae63c47ac304a837a66737e4308e1bd3e1429b"
-
-[[files]]
-file = "resourcepacks/spsm/pack.mcmeta"
-hash = "b041846ec07bea34286bd909793a0f78b3998a9e845de043a3f22a49509e5299"
 
 [[files]]
 file = "resourcepacks/tras-fresh-player.pw.toml"
