@@ -584,11 +584,6 @@ hash = "72d0304efb7ad2878f7bc915148424c6fb5cb1182237c796c4348099ed0eb1a0"
 metafile = true
 
 [[files]]
-file = "mods/worldedit.pw.toml"
-hash = "5eae725a00798e1595b3c3060ceb33015c0f22cb157b2aa6e0b61bc55fa0963e"
-metafile = true
-
-[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "f1eefe7a8625be283049ef6ee8cc4d51873e0808230e22a7947e606f6b192133"
 metafile = true
@@ -610,7 +605,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "ac187fcfcf70c54e1a2f5e6fd014a7edc3a0da08726dd81b6ac3907c92c5bb6d"
+hash = "d850f125d70c821d18a53502ef9949d6310aeefeef00a87b8451d852f2e59ed7"
 
 [[files]]
 file = "resourcepacks/Steampunk/assets/create/textures/block/deepslate_zinc_ore.png"
@@ -631,6 +626,18 @@ hash = "8d6fd59853a0b968131174396cf4f8e9f416ebe086cfc6176bfea4cb19b01bd9"
 [[files]]
 file = "resourcepacks/Steampunk/assets/createloveandwar/textures/block/nether_sulphur_ore.png"
 hash = "7618bf851d232c1184583ce7097ddd807229881529e60511c79a9301965f9c4e"
+
+[[files]]
+file = "resourcepacks/Steampunk/assets/createloveandwar/textures/block/oil_sand.png"
+hash = "2d7813b5010dd0abf3d19f908867428fcf1c598427dd746f3ace42f270b1dd04"
+
+[[files]]
+file = "resourcepacks/Steampunk/assets/createloveandwar/textures/block/oil_sand_bottom.png"
+hash = "0b737739eb66b6eac3a7db5500647cdf531119c66ac6ab991486e51572a8fcf3"
+
+[[files]]
+file = "resourcepacks/Steampunk/assets/createloveandwar/textures/block/oil_sand_top.png"
+hash = "da492536e22438d19339415c5957417ebe15cc72591f310055bf28b4f7221d43"
 
 [[files]]
 file = "resourcepacks/Steampunk/assets/createloveandwar/textures/block/sulphur_ore.png"
