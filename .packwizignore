@@ -1,3 +1,4 @@
 *.mrpack
 .DS_Store
 **/.DS_Store
+.github/
