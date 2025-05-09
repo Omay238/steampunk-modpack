@@ -1,0 +1,21 @@
+{
+  "pack": {
+    "description": [
+      {
+        "text": "Steampunk Resource Pack",
+        "color": "#e7db1e"
+      },
+      "\n",
+      {
+        "text": "Made by ",
+        "color": "#AAAAAA"
+      },
+      {
+        "text": "OwOmay",
+        "color": "#ffc76f"
+      }
+    ],
+    "pack_format": 21,
+    "supported_formats": [21, 999]
+  }
+}

@@ -93,7 +93,7 @@ metafile = true
 
 [[files]]
 file = "mods/chloride.pw.toml"
-hash = "956d7a3a85503e023af930e351f146a0883961be116f5b77dba928582d1bb317"
+hash = "c6d5bd31d146f0068d837dc82913f4f86ac9dd573c435fd9b44fc2f4ba53e916"
 metafile = true
 
 [[files]]
@@ -173,7 +173,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "18cfb0333d8cac4b66b0f7fb1b8dfc7446d9271f769f4871ef90dea3ed38da26"
+hash = "53c6f7ced4a2174f6808837495fdc712a3dfcde3c061aa1cc70e45b753cf3299"
 metafile = true
 
 [[files]]
@@ -343,7 +343,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "78c18d8d1b1f9a1294706105c218a00f59e6b18ad96744f53ffc67d573705476"
+hash = "101c34781cd238ccf1c524b64c870ce1a8611f71df46680c820918c719e868e1"
 metafile = true
 
 [[files]]
@@ -458,12 +458,12 @@ metafile = true
 
 [[files]]
 file = "mods/unilib.pw.toml"
-hash = "82c80e42eaf3d7360767286c45205e89ed4b5e48f10e253d727fefa9e7bcfd63"
+hash = "fec452c84916a374d47db3ca7491bb9b17c470b9316a2d4487b7d98a03facd82"
 metafile = true
 
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
-hash = "e9034efbe0a6b99110a49e21a4a0ed0053b2bd03993c876ec09c6933e39a1040"
+hash = "649f669da91acd0adf2940309e5dd55676b4ebfabc3791c7a91c9446d9989f11"
 metafile = true
 
 [[files]]

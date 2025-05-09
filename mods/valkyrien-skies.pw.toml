@@ -1,16 +1,13 @@
-filename = 'valkyrienskies-120-2.3.0-beta.5.jar'
-name = 'Valkyrien Skies'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'beta'
+name = "Valkyrien Skies"
+filename = "valkyrienskies-120-2.3.0-beta.6.jar"
+side = "both"
 
 [download]
-hash = 'f8b0169c1258614cfdcfd2165b642aee997184f0b65ba44002959fb0136043d2557ca0a5df7bff6677b6af67b5f423e8faf43311f06f8c984f655c4fbbaceeed'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/V5ujR2yw/versions/JmkvaGb4/valkyrienskies-120-2.3.0-beta.5.jar'
+url = "https://cdn.modrinth.com/data/V5ujR2yw/versions/Qf8brpAz/valkyrienskies-120-2.3.0-beta.6.jar"
+hash-format = "sha512"
+hash = "7f748fe795a0eb6f7a86a9c9ad12a5834034b4bd2a39061f5b4a2b7c3eebd4745a96c70f5fade29346bb8f9c34a3564e633d1587756dc484c9cce2a433f0444a"
 
+[update]
 [update.modrinth]
-mod-id = 'V5ujR2yw'
-version = 'JmkvaGb4'
+mod-id = "V5ujR2yw"
+version = "Qf8brpAz"
