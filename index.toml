@@ -89,6 +89,26 @@ file = "config/paxi/datapacks/Steampunk_Islands/data/minecraft/worldgen/configur
 hash = "5a786a8d24e8faf323e390f14762985eb11255fd365586c998851a7d93e4f574"
 
 [[files]]
+file = "config/paxi/datapacks/Steampunk_Islands/data/minecraft/worldgen/structure_set/village_desert.json"
+hash = "18587fa822cf51d38286a3a52aa1ecdbe823ea1d41aeb62aee33c55b17dded98"
+
+[[files]]
+file = "config/paxi/datapacks/Steampunk_Islands/data/minecraft/worldgen/structure_set/village_plains.json"
+hash = "18587fa822cf51d38286a3a52aa1ecdbe823ea1d41aeb62aee33c55b17dded98"
+
+[[files]]
+file = "config/paxi/datapacks/Steampunk_Islands/data/minecraft/worldgen/structure_set/village_savanna.json"
+hash = "18587fa822cf51d38286a3a52aa1ecdbe823ea1d41aeb62aee33c55b17dded98"
+
+[[files]]
+file = "config/paxi/datapacks/Steampunk_Islands/data/minecraft/worldgen/structure_set/village_snowy.json"
+hash = "18587fa822cf51d38286a3a52aa1ecdbe823ea1d41aeb62aee33c55b17dded98"
+
+[[files]]
+file = "config/paxi/datapacks/Steampunk_Islands/data/minecraft/worldgen/structure_set/village_taiga.json"
+hash = "18587fa822cf51d38286a3a52aa1ecdbe823ea1d41aeb62aee33c55b17dded98"
+
+[[files]]
 file = "config/paxi/datapacks/Steampunk_Islands/data/vs_clockwork/worldgen/configured_feature/ore_wanderlite.json"
 hash = "e13d2dfd37d91ad6761e7b6d1544273ef34ace98947e811d578b1a3fac0ed24a"
 
