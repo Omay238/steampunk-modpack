@@ -21,10 +21,6 @@ file = "config/paxi/datapack_load_order.json"
 hash = "95b324860c42bddb2a1c531ec351dbfce4b87c0442f0c2f0cde0dbf38f5e2b56"
 
 [[files]]
-file = "config/paxi/datapacks/Steampunk_Islands/.idea/workspace.xml"
-hash = "6f23a40849efdfe7c18af87e51fb86a9b4cca92914373682065e7c99572bcf4f"
-
-[[files]]
 file = "config/paxi/datapacks/Steampunk_Islands/data/create/worldgen/configured_feature/striated_ores_nether.json"
 hash = "b5ff1a5e82a857485256dec08464ce1e156873f4689ea0d88fcc71190d6c9ac4"
 
