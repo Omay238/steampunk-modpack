@@ -21,22 +21,6 @@ file = "config/paxi/datapack_load_order.json"
 hash = "95b324860c42bddb2a1c531ec351dbfce4b87c0442f0c2f0cde0dbf38f5e2b56"
 
 [[files]]
-file = "config/paxi/datapacks/Steampunk_Islands/.idea/Steampunk_Islands.iml"
-hash = "77fc09e97a9dabfa4230614cf9db8684baaafceac54a08ff63572cedcffb2bbd"
-
-[[files]]
-file = "config/paxi/datapacks/Steampunk_Islands/.idea/inspectionProfiles/profiles_settings.xml"
-hash = "6172c5997eeb3cd19c9ca2b5b97d6e2983cdd1fa60b2460d7bbb74055edcaa46"
-
-[[files]]
-file = "config/paxi/datapacks/Steampunk_Islands/.idea/misc.xml"
-hash = "ff45006007313eb59739974cd1a57469a7cf29cb3fb0aadca6b1660ceb861033"
-
-[[files]]
-file = "config/paxi/datapacks/Steampunk_Islands/.idea/modules.xml"
-hash = "9187cd3025a4d5e41ac3fc01bdcf1b86ed3b3f38372ad0874a892db90d2ac746"
-
-[[files]]
 file = "config/paxi/datapacks/Steampunk_Islands/.idea/workspace.xml"
 hash = "6f23a40849efdfe7c18af87e51fb86a9b4cca92914373682065e7c99572bcf4f"
 
@@ -155,6 +139,11 @@ metafile = true
 [[files]]
 file = "mods/chipped.pw.toml"
 hash = "4e80188fd31d68161ffdffa3f553026e4f58d5cacf339e82241504e3cd039aad"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "0e17f9758f6f67ef87aa6f8d5afc47901521a05904cd8470ef65063b48e69d73"
 metafile = true
 
 [[files]]
