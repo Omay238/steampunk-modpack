@@ -2,7 +2,7 @@ name: Deploy modpacks
 
 on:
   push:
-    branches: ["main"]
+    branches: ["main", "server"]
   workflow_dispatch:
 
 permissions:
