@@ -348,6 +348,11 @@ hash = "be48890d990e03c639c5636c79bfa74bbd531c49a80487507984899c386a0bd9"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "4ab869d8784f4ac318b5c92fa3d9e65f997352b8b57f34b409ca6f171637f0fe"
+metafile = true
+
+[[files]]
 file = "mods/rechiseled-chipped.pw.toml"
 hash = "300deb2d7f4fc8347ad9acf75a0a8fa76c69b4fcd0932abd1d249fd672df66bd"
 metafile = true
@@ -435,6 +440,11 @@ metafile = true
 [[files]]
 file = "mods/vs-tournament.pw.toml"
 hash = "72d0304efb7ad2878f7bc915148424c6fb5cb1182237c796c4348099ed0eb1a0"
+metafile = true
+
+[[files]]
+file = "mods/xxl-packets.pw.toml"
+hash = "11d01f5c6edb054a02dbb29964e71223317df3e4295ba5c202115a2a7fe91048"
 metafile = true
 
 [[files]]
