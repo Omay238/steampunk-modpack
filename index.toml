@@ -223,6 +223,11 @@ hash = "2e9255b6193f9b52120a715cc64288d8320d44feb215d0cc895ad411dcca9d2a"
 metafile = true
 
 [[files]]
+file = "mods/curios.pw.toml"
+hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
+metafile = true
+
+[[files]]
 file = "mods/dcintegration.pw.toml"
 hash = "7c1ac01f8026fac8630fa7762a4325bfda54578d7904890904308b921d33ebd8"
 metafile = true
@@ -320,6 +325,11 @@ metafile = true
 [[files]]
 file = "mods/mixintrace-reforged.pw.toml"
 hash = "f25d057d93e704015e0fb3d2c700d17712a3db5003d0e397d71fc27f8b7efe82"
+metafile = true
+
+[[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "f56fcec37f225c9b8a43e46c3b42c600f7bf4ad78e2ba745c6e8842b5f4f012c"
 metafile = true
 
 [[files]]
