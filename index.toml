@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/chloride-client.json"
-hash = "89f427637bcdfaae4e864b7ec936a7ff333de88d6d5cd22c6f934c96ad5e2c1a"
+hash = "e9fd36fb9a9de6489c5569f222e2f20f8742a030b313ebf9d4fb57b8be5fe1bb"
 
 [[files]]
 file = "config/create_interactive-common.toml"
@@ -10,7 +10,7 @@ hash = "120caf7f146e87932c5bf2f9706b6a0e860bde3e6603d2b8bd1f6d52237a91d1"
 
 [[files]]
 file = "config/embeddium-options.json"
-hash = "d140ff7c0b04049e7aea322ab5fd6eeb5663c00c68d41e1c9357eb9151e5ebf9"
+hash = "21c986723a318a4a5264dc0c4daa8021b7af94b2a2c9dbf8c71191df79e1dfe3"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -650,7 +650,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "d850f125d70c821d18a53502ef9949d6310aeefeef00a87b8451d852f2e59ed7"
+hash = "074869753e3c5c2ccddf101867ceec4a43843e5d40fe61ba61482859f357c3f6"
 
 [[files]]
 file = "resourcepacks/Steampunk/assets/create/textures/block/deepslate_zinc_ore.png"
