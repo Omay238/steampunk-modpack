@@ -134,6 +134,10 @@ file = "config/xaerominimap.txt"
 hash = "fa6ad1c8a07b00a4eca3d55c7fb7ff39979ba1a75b75641946e2ca7a1fec7ce4"
 
 [[files]]
+file = "icon.png"
+hash = "53bd37e20662af4f382adf9f6a113e4efce765cc57f285cacc46da9838391215"
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "f81aadb66681336d3167dbb4be739457e0891076f30023cfc2b0c47c4882043a"
 metafile = true
