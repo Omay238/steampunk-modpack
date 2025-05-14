@@ -5,18 +5,6 @@ file = "config/create_interactive-common.toml"
 hash = "120caf7f146e87932c5bf2f9706b6a0e860bde3e6603d2b8bd1f6d52237a91d1"
 
 [[files]]
-file = "config/fancymenu/customizablemenus.txt"
-hash = "b16a1fbade8ab623f0a50a7d4657f8390ea4518bcc202f9fc011d6e5faf14db8"
-
-[[files]]
-file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "ecaf5dbae8e4e03e89117f6c8524aa4befcf007486de297d32698bf8b4074a2f"
-
-[[files]]
-file = "config/fancymenu/options.txt"
-hash = "d9f90ebcf80e982d0ed70f5941be409b3cc92e834c40bb1e7dffc4e1b934e4ca"
-
-[[files]]
 file = "config/paxi/datapack_load_order.json"
 hash = "95b324860c42bddb2a1c531ec351dbfce4b87c0442f0c2f0cde0dbf38f5e2b56"
 
@@ -233,11 +221,6 @@ hash = "7c1ac01f8026fac8630fa7762a4325bfda54578d7904890904308b921d33ebd8"
 metafile = true
 
 [[files]]
-file = "mods/e4mc.pw.toml"
-hash = "4457fd8767a5d234c37623df7d46d7c66cac300897e8922c4ccdee123f02c79f"
-metafile = true
-
-[[files]]
 file = "mods/eureka.pw.toml"
 hash = "49951b3d25aba96fa24dbec3fafa984052566bf26eb659c414667a05bbec1d4c"
 metafile = true
@@ -245,11 +228,6 @@ metafile = true
 [[files]]
 file = "mods/every-compat.pw.toml"
 hash = "56edbcb8b30fad9ae600c56bb107409a796d6b290ab8beddc53b17846eb38a69"
-metafile = true
-
-[[files]]
-file = "mods/fancymenu.pw.toml"
-hash = "ea30ec34a8ae2e24e0f79c5ba39ba937de7eed420ff815ea813c2e5f605320a8"
 metafile = true
 
 [[files]]
@@ -409,12 +387,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "3e7e50f5bee28d50e578f116f57a0eb92edbd1801e1276cf53412f48a2a3bfb0"
+hash = "ff12dbb3176a76d400a3979409d11ff0e19087b05123b5a29d5f6642ce77271c"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "f1c35000bb491cbeb224e1dbb58a23c072d3b5f238c8d2ee5f5efd77f4c86724"
+hash = "a9bc60756e1b453cf590d75bffffd5ad6de90f96adba8b3421d46279f21753f7"
 metafile = true
 
 [[files]]
@@ -424,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/stone-zone.pw.toml"
-hash = "60647ed044957e85b688ec958d4b79af78ddb4f96af69660d4a57c5a752b6d94"
+hash = "8218dac73c69898819b8c23b79f3e51902d4d9d22fd1ddd0b9a813f4c6adf3f6"
 metafile = true
 
 [[files]]
@@ -444,7 +422,7 @@ metafile = true
 
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
-hash = "649f669da91acd0adf2940309e5dd55676b4ebfabc3791c7a91c9446d9989f11"
+hash = "19e61336196413472f8d425a6ebbd51edb4dd32920839ddcec14fbede1546a20"
 metafile = true
 
 [[files]]
