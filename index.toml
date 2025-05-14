@@ -402,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/stone-zone.pw.toml"
-hash = "8218dac73c69898819b8c23b79f3e51902d4d9d22fd1ddd0b9a813f4c6adf3f6"
+hash = "03a95f86697d67a535608f0cda8bf5d4782aeb02605c151722cfbd4c83ececcb"
 metafile = true
 
 [[files]]
