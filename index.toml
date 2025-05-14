@@ -205,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "4cbdaceb615c1c1a2aa0b18896a54579aaae886825e5baf6ec6ba878fea59278"
+hash = "17a10532b2a12768f31f8bd209024312e6e224d01f87c8476704000b40d2334e"
 metafile = true
 
 [[files]]
@@ -335,7 +335,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "ea30ec34a8ae2e24e0f79c5ba39ba937de7eed420ff815ea813c2e5f605320a8"
+hash = "3b037857c8bdbdb5cfb846ffda75b5da9aa572a47775be0ca58e2f2cd6341b67"
 metafile = true
 
 [[files]]
@@ -555,12 +555,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "3e7e50f5bee28d50e578f116f57a0eb92edbd1801e1276cf53412f48a2a3bfb0"
+hash = "ff12dbb3176a76d400a3979409d11ff0e19087b05123b5a29d5f6642ce77271c"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "f1c35000bb491cbeb224e1dbb58a23c072d3b5f238c8d2ee5f5efd77f4c86724"
+hash = "a9bc60756e1b453cf590d75bffffd5ad6de90f96adba8b3421d46279f21753f7"
 metafile = true
 
 [[files]]
@@ -580,7 +580,7 @@ metafile = true
 
 [[files]]
 file = "mods/stone-zone.pw.toml"
-hash = "60647ed044957e85b688ec958d4b79af78ddb4f96af69660d4a57c5a752b6d94"
+hash = "8218dac73c69898819b8c23b79f3e51902d4d9d22fd1ddd0b9a813f4c6adf3f6"
 metafile = true
 
 [[files]]
@@ -605,7 +605,7 @@ metafile = true
 
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
-hash = "649f669da91acd0adf2940309e5dd55676b4ebfabc3791c7a91c9446d9989f11"
+hash = "19e61336196413472f8d425a6ebbd51edb4dd32920839ddcec14fbede1546a20"
 metafile = true
 
 [[files]]
@@ -620,7 +620,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "f1eefe7a8625be283049ef6ee8cc4d51873e0808230e22a7947e606f6b192133"
+hash = "b000d0545976048ed0bcd4276a47168c5eac0344fe404b07e67761d79a9c89cc"
 metafile = true
 
 [[files]]

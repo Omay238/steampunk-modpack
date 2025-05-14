@@ -1,16 +1,13 @@
-filename = 'CraftPresence-2.5.5+1.20.1-forge.jar'
-name = 'CraftPresence'
-side = 'client'
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "CraftPresence"
+filename = "CraftPresence-2.4.3+1.20.1.jar"
+side = "client"
 
 [download]
-hash = '9ba45610311c9db7ddeb3bdb2eeabc284e88f353778bdd811bd8e94b870da70117acdd23d23ae04e2b7c66d7a21bdebb5855ec1ffb886910f584d251c867682e'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/DFqQfIBR/versions/4Qt4lFlj/CraftPresence-2.5.5%2B1.20.1-forge.jar'
+url = "https://cdn.modrinth.com/data/DFqQfIBR/versions/oIpViecx/CraftPresence-2.4.3%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "b11f9b49c80bf193c5324685bf40345117bab6dfc8afdbc59c015d08cd46736f0f3b3b36613bc1fd012549af2681c47c580f0b7398f7e34fe2dbe64c581a9ae0"
 
+[update]
 [update.modrinth]
-mod-id = 'DFqQfIBR'
-version = '4Qt4lFlj'
+mod-id = "DFqQfIBR"
+version = "oIpViecx"
