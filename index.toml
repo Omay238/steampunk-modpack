@@ -436,11 +436,6 @@ hash = "72d0304efb7ad2878f7bc915148424c6fb5cb1182237c796c4348099ed0eb1a0"
 metafile = true
 
 [[files]]
-file = "mods/worldedit.pw.toml"
-hash = "8a7bab663c386b0e31a5730d4c585baae859ea47ff716fa30fd8d0103ccba1a4"
-metafile = true
-
-[[files]]
 file = "mods/xxl-packets.pw.toml"
 hash = "11d01f5c6edb054a02dbb29964e71223317df3e4295ba5c202115a2a7fe91048"
 metafile = true
