@@ -126,6 +126,11 @@ hash = "8fc2033ee6c4f2ca22b54c3c3e3e31e7fb16c67a24ea55740a1a4e4d9e9b856c"
 metafile = true
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+hash = "121311026aa3bb351153cfe527757261947d04ef6cc79768a53c0b058839abec"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "2c7193a88ab0252c3f16c30933e579cd80b1c38e0d6089fc122ae07f41f878d7"
 metafile = true
@@ -428,6 +433,11 @@ metafile = true
 [[files]]
 file = "mods/vs-tournament.pw.toml"
 hash = "72d0304efb7ad2878f7bc915148424c6fb5cb1182237c796c4348099ed0eb1a0"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "8a7bab663c386b0e31a5730d4c585baae859ea47ff716fa30fd8d0103ccba1a4"
 metafile = true
 
 [[files]]
