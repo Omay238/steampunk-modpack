@@ -404,12 +404,12 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "e1b7575ede41282245f402976e29af128960d7dd4d34827c8068b06e3fdb30a6"
+hash = "66a8d44f5ef66075063ced8b54312a46bb8a256090d36df877b8ff58de9d16be"
 metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "af8372976bb94f82aa0601f680c48b4701a2ed0aa0619edd68b00f78eecb7207"
+hash = "d4ce1e57da773c6157f3208eadc40d5962be2bb1d2747eae169debb6d50a543f"
 metafile = true
 
 [[files]]
@@ -444,12 +444,12 @@ metafile = true
 
 [[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
-hash = "f56fcec37f225c9b8a43e46c3b42c600f7bf4ad78e2ba745c6e8842b5f4f012c"
+hash = "70bd76457fcd02b797eeaad3e88c3390b88d0e8bd15d7100631c41401953926e"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "0ffeb1d266cec9193d677cf88c8ac82311826093f45e3955e832d14882e52292"
+hash = "01d408ee2d9bf1431df1ddc8c2a036aaad350a317778bdb33fec38942179dd1f"
 metafile = true
 
 [[files]]
@@ -559,12 +559,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "ff12dbb3176a76d400a3979409d11ff0e19087b05123b5a29d5f6642ce77271c"
+hash = "bb48ee8c9ea84dcbc54097e3efb708a04d4cc4c184aeaf0b34ae8c24d9319bb6"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "a9bc60756e1b453cf590d75bffffd5ad6de90f96adba8b3421d46279f21753f7"
+hash = "3995c591237c0b1e85c66a0c1420367805653eeb02451c99497697f96296fe9f"
 metafile = true
 
 [[files]]
@@ -629,7 +629,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "e92ea744c79e84a1f878fae04def2ec3e476c3d35fc1718e80cd19d1ae2cdc72"
+hash = "95650f26d33823363d0003ff801e081f4c1e9e33d88a4fc871ebc7ec33b72ac5"
 metafile = true
 
 [[files]]
