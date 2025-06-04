@@ -23,6 +23,8 @@ jobs:
     steps:
       - name: Checkout Client
         uses: actions/checkout@v4
+        with:
+          ref: main
       - name: Copy Client
         run: |
           mkdir -p ../artifact/client
