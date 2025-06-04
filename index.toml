@@ -168,6 +168,11 @@ hash = "4be628666344246201b297e3c7df5d4b91c1fd907f3c77d1df571cd7a2aea05b"
 metafile = true
 
 [[files]]
+file = "mods/bocchud.pw.toml"
+hash = "8a8d5173c74824a1ae312d7a22e3fc6a5a3312e48f034f2be83ee345e749eda3"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "2c7193a88ab0252c3f16c30933e579cd80b1c38e0d6089fc122ae07f41f878d7"
 metafile = true
@@ -428,6 +433,11 @@ hash = "4031715a9ac883a7e10c64196d1957f41f8d69b40115b576259d9c2c9702a0a0"
 metafile = true
 
 [[files]]
+file = "mods/mafglib.pw.toml"
+hash = "9c4da7c2784ead3ef2486ec80417cbcedcf8d35a5176bccdbebb8469d60d5e7a"
+metafile = true
+
+[[files]]
 file = "mods/melody.pw.toml"
 hash = "5fa57813f3fc912babefdc138d3404e8275bd44b7a39527cad30fb7feb5b136a"
 metafile = true
@@ -600,6 +610,11 @@ metafile = true
 [[files]]
 file = "mods/trackwork.pw.toml"
 hash = "fbb8ff45f48220f47dc0f0aa346d2571c002e703fec6b4ef2fbbd0c19aacbeb7"
+metafile = true
+
+[[files]]
+file = "mods/tweakerge.pw.toml"
+hash = "2fe1a59e86b595ad5b8d25a0a9f5661b33071683a6ea5e23db146c030963e67e"
 metafile = true
 
 [[files]]
