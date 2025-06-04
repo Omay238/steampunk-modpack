@@ -163,6 +163,11 @@ hash = "d62371ab8a6ff683de9c9b20ffa5cbd47d92f6e8a597462099baa7cd7b518e83"
 metafile = true
 
 [[files]]
+file = "mods/badpackets.pw.toml"
+hash = "0083555f3f8a180241b81287a0998f028c7377751c86f2755e734b3b29f9fd3b"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "4be628666344246201b297e3c7df5d4b91c1fd907f3c77d1df571cd7a2aea05b"
 metafile = true
