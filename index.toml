@@ -159,7 +159,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "d62371ab8a6ff683de9c9b20ffa5cbd47d92f6e8a597462099baa7cd7b518e83"
+hash = "5dbe70f6dee859c9c2f6f13f2e8c34801fe89cc57ec94c96fc3200bed8d42531"
 metafile = true
 
 [[files]]
@@ -199,7 +199,7 @@ metafile = true
 
 [[files]]
 file = "mods/chloride.pw.toml"
-hash = "c6d5bd31d146f0068d837dc82913f4f86ac9dd573c435fd9b44fc2f4ba53e916"
+hash = "cf0ce0a3867618d2c2bbfb0a345b5746f968bdc61c1fef7e146e11ce31e112c4"
 metafile = true
 
 [[files]]
@@ -294,17 +294,17 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "53c6f7ced4a2174f6808837495fdc712a3dfcde3c061aa1cc70e45b753cf3299"
+hash = "a4c814876cd9046f9cdbe0a5967edff092adb8c28de2d717ce5fe469d6fbc9a2"
 metafile = true
 
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
-hash = "b85da5f57e911e9d7adc2b57c26feaf6ab66ed5b6fd2f995d8f680c8a6ea7cab"
+hash = "85543804ef58882a9d1bee118a80e01189d01ba0faf031a054c82838b6160bd1"
 metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "4457fd8767a5d234c37623df7d46d7c66cac300897e8922c4ccdee123f02c79f"
+hash = "a69ac7bfb6794ca33881e41855b06b6af01519207770da67a72798ee8fcebf5a"
 metafile = true
 
 [[files]]
@@ -324,7 +324,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "ad392f24f2a4bb87e98aa1de502a986803750c18a14dea547896f6002c029ba5"
+hash = "a0786998e3c2854f3cf39b7c5fc21dc3107024a912b81e3f48d40502d7d7d5fc"
 metafile = true
 
 [[files]]
@@ -354,7 +354,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "3b037857c8bdbdb5cfb846ffda75b5da9aa572a47775be0ca58e2f2cd6341b67"
+hash = "dbe258d2cb890a5c487fa7787d346edb33e3ea81415e550b503872103d704e24"
 metafile = true
 
 [[files]]
@@ -469,7 +469,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "01d408ee2d9bf1431df1ddc8c2a036aaad350a317778bdb33fec38942179dd1f"
+hash = "5f68d67accdd7dffc8df29d7ef14b90ac4373226879485f1f8da5b74e108894f"
 metafile = true
 
 [[files]]
@@ -514,7 +514,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "39d311dad7c65148f6356d514b5e3cbba6d856c3fef46c5e3bc356da6edb3a6d"
+hash = "2d524e41607c1828ab0198295c5efc231c002f8c6801117d675728968bbc3587"
 metafile = true
 
 [[files]]
@@ -569,7 +569,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "34e036f376828c9ddb96fdd42f11603dca88a735bf59ae8f609850aea3a67d68"
+hash = "b46ef85a3d919e5ddaf02a07f44f8e385a8089d7c7c926c2135cd6ed8b23495d"
 metafile = true
 
 [[files]]
@@ -579,12 +579,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "bb48ee8c9ea84dcbc54097e3efb708a04d4cc4c184aeaf0b34ae8c24d9319bb6"
+hash = "c6d654ccff6672ce6b5e07a822735a4dbd1adc2582b947f21c06f00416d5b164"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "3995c591237c0b1e85c66a0c1420367805653eeb02451c99497697f96296fe9f"
+hash = "3dca4b0f2e5f5f41e75ea8bb323d8d40cc745997198778d8442e54e34544962c"
 metafile = true
 
 [[files]]
