@@ -322,12 +322,12 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "01d408ee2d9bf1431df1ddc8c2a036aaad350a317778bdb33fec38942179dd1f"
+hash = "5f68d67accdd7dffc8df29d7ef14b90ac4373226879485f1f8da5b74e108894f"
 metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "101c34781cd238ccf1c524b64c870ce1a8611f71df46680c820918c719e868e1"
+hash = "771613352812f69450e49a359aa0a4cae676ed2a3c4b6c5a120c736364b15d7d"
 metafile = true
 
 [[files]]
@@ -387,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "34e036f376828c9ddb96fdd42f11603dca88a735bf59ae8f609850aea3a67d68"
+hash = "b46ef85a3d919e5ddaf02a07f44f8e385a8089d7c7c926c2135cd6ed8b23495d"
 metafile = true
 
 [[files]]
@@ -397,12 +397,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "bb48ee8c9ea84dcbc54097e3efb708a04d4cc4c184aeaf0b34ae8c24d9319bb6"
+hash = "c6d654ccff6672ce6b5e07a822735a4dbd1adc2582b947f21c06f00416d5b164"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "3995c591237c0b1e85c66a0c1420367805653eeb02451c99497697f96296fe9f"
+hash = "3dca4b0f2e5f5f41e75ea8bb323d8d40cc745997198778d8442e54e34544962c"
 metafile = true
 
 [[files]]
