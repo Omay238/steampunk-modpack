@@ -282,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "66a8d44f5ef66075063ced8b54312a46bb8a256090d36df877b8ff58de9d16be"
+hash = "0fbcc8cf03336e6bed425e2115fc4ff1a3a05be5c655228b305e70380eb08b57"
 metafile = true
 
 [[files]]
@@ -317,17 +317,17 @@ metafile = true
 
 [[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
-hash = "70bd76457fcd02b797eeaad3e88c3390b88d0e8bd15d7100631c41401953926e"
+hash = "cb6a545e5739fc0e5df919fd60d729cb20634c9febd29b133eca4f172d90aa97"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "5f68d67accdd7dffc8df29d7ef14b90ac4373226879485f1f8da5b74e108894f"
+hash = "f7f82c3216ba9bfac7b9d040d0a1845d94f693b70f9981f5caf497e81f73bfae"
 metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "771613352812f69450e49a359aa0a4cae676ed2a3c4b6c5a120c736364b15d7d"
+hash = "73f8160fb541f6b5e3d5bd6a16515874d89e9c11be404594339b4ec136d8e1ea"
 metafile = true
 
 [[files]]
@@ -387,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "b46ef85a3d919e5ddaf02a07f44f8e385a8089d7c7c926c2135cd6ed8b23495d"
+hash = "30ae3e1cc1c6e3f09b29fc3a61fa8b8683ec7d5d31f4b234a27d58a99accbb20"
 metafile = true
 
 [[files]]
@@ -397,12 +397,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "c6d654ccff6672ce6b5e07a822735a4dbd1adc2582b947f21c06f00416d5b164"
+hash = "fee227f06f4426c3de411320e7c736e503b169a145a6ed899430e9573848ef10"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "3dca4b0f2e5f5f41e75ea8bb323d8d40cc745997198778d8442e54e34544962c"
+hash = "e95c36cccf7e2eef1249ad609c5b0208323dc7e1198a1624520804acc84df57e"
 metafile = true
 
 [[files]]
@@ -432,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
-hash = "19e61336196413472f8d425a6ebbd51edb4dd32920839ddcec14fbede1546a20"
+hash = "559456029cff17724272b8307ea10e5745e4fcfa0991c6c9c9516a8b7fba6309"
 metafile = true
 
 [[files]]
