@@ -130,6 +130,11 @@ hash = "1e35d793199279f2f3381c43757819a5ddf856962b42d564a81915b1095012d0"
 metafile = true
 
 [[files]]
+file = "config/paxi/datapacks/drive-by-wire-craftable.pw.toml"
+hash = "6a8f540e07d8057e61c3c9e9ae38a7e24779cc4bb6050ff34202e42e3a8cffed"
+metafile = true
+
+[[files]]
 file = "config/xaerominimap.txt"
 hash = "fa6ad1c8a07b00a4eca3d55c7fb7ff39979ba1a75b75641946e2ca7a1fec7ce4"
 
@@ -185,11 +190,6 @@ metafile = true
 [[files]]
 file = "mods/canary.pw.toml"
 hash = "6aaf4b30b633dd2234a379ce5eb4eb7e0a530cb865dccb7edfbf8731b46bb6ab"
-metafile = true
-
-[[files]]
-file = "mods/cbcmodernwarfare.pw.toml"
-hash = "3aabe5d5b84f22603e6dafb9c1dd831e4eeae86b87ae16dc2646ba74e65dcd22"
 metafile = true
 
 [[files]]
@@ -258,6 +258,11 @@ hash = "8d8afcaa2676421ad2a1747dedd28ebcf6777b3ed6ce34038f2ba0f395062fb2"
 metafile = true
 
 [[files]]
+file = "mods/create-sound-of-steam.pw.toml"
+hash = "f0d9d77bced199bd2f27b412fbb6c55cb7c610a01e39e638163a10aa3dac0bc6"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "8ebeb84b8c19d9595a8351c2e14691f23613716656d943ea3d9061605a5ebd72"
 metafile = true
@@ -291,6 +296,15 @@ metafile = true
 file = "mods/drippy-loading-screen.pw.toml"
 hash = "a7f79ab987ef508d984bf04d87ee96e000ce35d41c52f83ca53d6f3ca6c20aa0"
 metafile = true
+
+[[files]]
+file = "mods/drive-by-wire.pw.toml"
+hash = "7a3aedf5919711a10f45c588bab25c9a093ef1cfaade1ecc25dd498c58b872b3"
+metafile = true
+
+[[files]]
+file = "mods/drivebywire-1.20.1-0.0.10.jar"
+hash = "6034d32d5b58d3fd8596676262165a7af3246e54abf23cc3e611366dd3f322ca"
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
