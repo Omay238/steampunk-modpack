@@ -1,0 +1,13 @@
+name = "Drive-By-Wire: Craftable"
+filename = "DBW_CRAFTABLE.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0e6d0d4e720da2b29bd81d121061726694ef1a8c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6324262
+project-id = 1224008
